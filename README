@@ -1,0 +1,12 @@
+3DMarker is a tool for the tagging of sections in 3D models.
+
+3DMarker is a tool for the tagging of sections in 3D models. It is the ideal complement to improve your identification skills.
+
+With 3DMarker you can choose sections of a model and assign them a name and a description. The program includes the Ask Me! mode, a tool with a great pedagogical value: once your sections are named, the users can test their knowledge by identifying the model sections. This function is particularly useful in many different scopes like biology, medicine or engineering.  
+
+Features:
+- PLY file support (Only ASCII).
+- Different visualization modes: Points, lines, polygons and wired polygons.
+- Ask Me! mode can help you to memorize parts of model.
+- Free Software under GPL version 3 license. QT and OpenGL based.
+- Compatible with Mac, Linux and windows.
